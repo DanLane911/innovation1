@@ -7,7 +7,6 @@ header:
   caption: ""
   image: ""
 share: false
-active:false
 title: Terms
 ---
 
