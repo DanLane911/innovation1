@@ -7,12 +7,3 @@ main:
   - name: About Me
     url: '#about'
     weight: 10
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 70
- - name: File Drawer
-    url: filedrawer/
-    weight: 30 # keep as draft before committing
